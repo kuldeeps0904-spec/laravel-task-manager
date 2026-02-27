@@ -23,7 +23,8 @@ This project demonstrates full CRUD (Create, Read, Update, Delete) operations us
 ## 🛠 Tech Stack
 
 - PHP 8+
-- Laravel
+- Composer 2+
+- Laravel 10+
 - SQLite
 - Blade Templating Engine
 - Tailwind CSS
